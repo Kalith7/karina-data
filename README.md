@@ -89,5 +89,5 @@ Tecnologías: Python (pandas), BigQuery.
 ## 📫 Contacto
 
 **LinkedIn:** https://www.linkedin.com/in/karinaherrera  
-**Email:** karina.herrera.data@gmail.com  
+**Email:** karinahefu@gmail.com  
 
